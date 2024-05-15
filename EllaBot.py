@@ -23,7 +23,7 @@ st.sidebar.info(
 )
 
 # Initialize the OpenAI client
-client = OpenAI(api_key= "sk-proj-TwRmFL05p6hOHS51SSSyT3BlbkFJdO9MqczzeXKPXchVZaBb")
+client = OpenAI(api_key= "Enter your api key here")
 
 # Main chat interface
 st.subheader("Hi ,I'm Ella Your Daily Companion.")
